@@ -76,7 +76,7 @@ description='''${mod_description}'''
 [[dependencies.${mod_id}]]
 modId = "ifeu"
 mandatory = false
-versionRange = "[2.0.102,)"
+versionRange = "[1.20.1-2.0.102,)"
 ordering = "AFTER"
 side = "BOTH"
 
