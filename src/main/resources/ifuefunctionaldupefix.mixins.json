@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.minimaxi.ifuefunctionaldupefix.mixin",
+  "refmap": "ifuefunctionaldupefix.refmap.json",
+  "mixins": [
+    "slot.FixDrawerUpgradePickupMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
